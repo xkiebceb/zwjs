@@ -1,0 +1,60 @@
+.ww{
+	margin: 0 auto;
+}
+nav ul li{
+	list-style-type: none;
+	margin-right: 110px;
+	padding: 10px;
+	display: inline-block;
+	font: left;
+	align:center;
+}
+nav li a{
+	text-decoration: none;
+}
+nav{
+	background-color: #EBBBB1;
+	width: 1200px;
+	height: 30px;
+}
+nav li a:hover{
+	color: #C03;
+}
+.cc{
+	float: left;
+	margin-right: 50px;
+}
+.dd{
+	float: left;
+	width: 500px;
+	margin-left: 50px;
+}
+.ff{
+	float: left;
+	width: 850px;
+	margin-right: 50px;
+}
+.gg{
+	margin-left: 80px;
+	margin-top: 30px;
+}
+.one{
+	float: left;
+	margin-bottom: 20px;
+}
+.ww{
+	width: 1200px;
+	height: 600px;
+}
+.yy{
+	margin-left: 200px;
+}
+.qx{
+	margin-top: 50px;
+	margin-left: 100px;
+
+}
+.pp{
+	float: right;
+	margin-left: 40px;
+}
